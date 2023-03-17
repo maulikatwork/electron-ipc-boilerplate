@@ -1,0 +1,14 @@
+{
+  "name": "electron-ipc-boilerplate",
+  "version": "1.0.0",
+  "description": "Electron Boilerplate with working two way ipc communication via contextbridge",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Maulik Pankhania",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}
